@@ -1,4 +1,3 @@
-@@ -1,5 +1,31 @@
 /* _putchar.c */
 int _putchar(char);
 /*10 x alphabet */
